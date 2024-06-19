@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanskar
 - 👀 I’m interested in Gaming and coding 
 - 🌱 I’m currently learning- game developing
-- 💞️ I’m looking to collaborate on - veteran level programming stuff
+- 💞️ I’m looking to collaborate on - web development projects and machine learning projects
 - 📫 DISCORD - n.u.x
 
 <!---
